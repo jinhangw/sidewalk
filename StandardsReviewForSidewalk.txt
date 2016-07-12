@@ -18,24 +18,24 @@ What we could try:
 4. Retroreflectivity of pedestrian crossing (zebra crossing)
 5. Accessible Transportation: we detect bus stops and assess the accessibility around. 
 
-##########################Information from US Access Board##############################################
+########################## Information from US Access Board ##############################################
 
-Roughness:
-First, the most cited standard is from DEVELOPMENT OF SURFACE ROUGHNESS STANDARDS FOR PATHWAYS USED
-BY WHEELCHAIRS USERS: FINAL REPORT
-https://www.access-board.gov/attachments/article/1680/surface-roughness.pdf 
+####Roughness:
 
 Based on the combination of RMS data and subjective feedback from wheelchair users, we are proposing a roughness index threshold of 1.20 in/ft for any short distance segments (less than 10 ft). For longer surfaces (greater than 100ft), a roughness index of 0.60 in/ft should be adopted.
 To calculate roughness, a profile of the surface with a resolution of 1 mm should be used.
 The profile should be filtered with a “wheelpath” algorithm with a 2.5 in diameter wheel.
 
+Above is the most cited standard is from DEVELOPMENT OF SURFACE ROUGHNESS STANDARDS FOR PATHWAYS USED
+BY WHEELCHAIRS USERS: FINAL REPORT
+https://www.access-board.gov/attachments/article/1680/surface-roughness.pdf 
+
+
 Another study result (from University of Pittsburgh):
 The roughness index can be correlated to wheelchair user comfort based on research by the University of Pittsburgh. This research found that a surface with more than 1.28 in./ft of vertical variation is not good (painful) for wheelchair users with 0.9in./ft is an average acceptable condition.
 (This result is also cited by media. For example, ASTM Approves New Slab and Sidewalks Roughness Measurement Standards with Upgrades to Others. https://www.icpi.org/newsroom/astm-approves-new-slab-and-sidewalks-roughness-measurement-standards-upgrades-others )
 
-Changes in Level:
-ADA: Americans with Disabilities Act
-https://www.ada.gov/regs2010/2010ADAStandards/2010ADAStandards.pdf 
+####Changes in Level:
 
 ADA Standards 303 Changes in Level
  303.2 Vertical.  Changes in level of ¼ inch (6.4 mm) high maximum shall be permitted to be vertical.
@@ -43,20 +43,30 @@ ADA Standards 303 Changes in Level
  303.4 Ramps.  Changes in level greater than ½ inch (13 mm) high shall be ramped, and shall comply with 405 or 406
  Running slope: 1:20
  Cross-slope: 1:50
- Surface Roughness: Surfaces should be stable, firm & slip resistant
+ 
+####Surface Roughness: Surfaces should be stable, firm & slip resistant
+
 Hardened materials such as concrete, asphalt, tile, and wood are sufficiently firm and stable for accessibility.
 Most loose materials, including gravel will not meet these requirements unless properly treated to provide sufficient surface integrity and resilience.  Binders, consolidants, compaction, and grid forms may enable some of these materials to perform satisfactorily but require repeated maintenance.
 Cobblestones and other rough surfaces make wheelchair travel difficult and uncomfortable. 
 
-Opening: Openings in ground and floor surfaces, such as grates, are limited in width to prevent passage of a ½” diameter sphere.  Wheelchair casters can get wedged into wider openings.
+####Opening: Openings in ground and floor surfaces, such as grates, are limited in width to prevent passage of a ½” diameter sphere.  Wheelchair casters can get wedged into wider openings.
 
-Clearances:
+####Clearances:
+
 The minimum 36” continuous clear width of accessible routes can reduce to 32” at points, such as doorways, for a maximum distance of 24”. Greater clearance is required for 180 degree turns around narrow obstructions and for wheelchair turning space.
 Additional clearance is required at 180 degree turns around an element that is less than 48” wide. The clear width must be at least 48” at the turn and 42” minimum approaching the turn (unless the clear width at the turn is 60” minimum).
 Passing space is required every 200 feet and must be provided as a 60” by 60” minimum space or as T-shaped space where each stem is at least 48” long.
 
-Medians and Islands:
+Cite: ADA: Americans with Disabilities Act
+https://www.ada.gov/regs2010/2010ADAStandards/2010ADAStandards.pdf 
+
+
+####Medians and Islands:
+
 According to ADAAG, a raised island or median should be level with the street or have curb ramps at all sides and a level area 1.220 m (48 in) long in all directions. If a cut-through design is used, it should be at least 0.915 m (36 in) wide.
-Pedestrian-Actuated traffic control:
+
+####Pedestrian-Actuated traffic control:
+
 ADAAG Section 4.10.3 states that elevator buttons should be located no higher than 1.065 m (42 in) (ADAAG, U.S. Access Board,1991). buttons should be raised above or flush with their housings and be at least 50 mm (2 in) in the smallest dimension (U.S. Access Board, 1994b).
 
