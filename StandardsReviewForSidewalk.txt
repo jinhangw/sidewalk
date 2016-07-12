@@ -22,6 +22,9 @@ What we could try:
 
 ####Roughness:
 
+1.20 in/ft
+0.60 in/ft for longer surfaces
+
 Based on the combination of RMS data and subjective feedback from wheelchair users, we are proposing a roughness index threshold of 1.20 in/ft for any short distance segments (less than 10 ft). For longer surfaces (greater than 100ft), a roughness index of 0.60 in/ft should be adopted.
 To calculate roughness, a profile of the surface with a resolution of 1 mm should be used.
 The profile should be filtered with a “wheelpath” algorithm with a 2.5 in diameter wheel.
@@ -36,6 +39,9 @@ The roughness index can be correlated to wheelchair user comfort based on resear
 (This result is also cited by media. For example, ASTM Approves New Slab and Sidewalks Roughness Measurement Standards with Upgrades to Others. https://www.icpi.org/newsroom/astm-approves-new-slab-and-sidewalks-roughness-measurement-standards-upgrades-others )
 
 ####Changes in Level:
+
+0.25 inch
+0.5 inch with bevel
 
 ADA Standards 303 Changes in Level
  303.2 Vertical.  Changes in level of ¼ inch (6.4 mm) high maximum shall be permitted to be vertical.
